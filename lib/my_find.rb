@@ -9,8 +9,3 @@ def my_find(collection)
    i += 1
  end
 
- if new_array.find(i % 3)
-  return true
-else
-  false
-end
